@@ -29,4 +29,12 @@ This system enables employees to achieve more with less effort via a user-friend
 - Frontend technologies (React.js)
 - LangChain
 
+## Future Work
+As you guys can see the responses from the LLM model needs to be further finetuned hence i will try finetuning it so that the user gets the optimized response for its prompt.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/d036b701-6745-440d-aa29-cc880bf691c1
+
 
